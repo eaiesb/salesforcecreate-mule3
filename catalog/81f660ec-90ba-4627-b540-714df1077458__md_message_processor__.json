@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "salesforce"
+        }
+    },
+    "outputMessageMetadata": {},
+    "id": "81f660ec-90ba-4627-b540-714df1077458",
+    "version": "5.2.0.0"
+}
